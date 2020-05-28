@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{ 
+    background-color: #FAC37B;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header h1{
+    color: #2176AE;
+    font-size: 70px; font-style: unset;
+}
+
+header img{
+    border-radius: 300px;
+    border: 20px solid #2176AE
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+footer{
+    margin: 0 auto;
+    background-color: #2176AE;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+}
